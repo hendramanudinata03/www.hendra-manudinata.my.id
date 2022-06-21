@@ -1,0 +1,29 @@
+baseURL = "https://www.hendra-manudinata.my.id"
+languageCode = "en-us"
+title = "Hendra Manudinata"
+theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Hendra Manudinata"
+subtitle = "A teenager, full of curiosity."
+imageUrl = "https://avatars.githubusercontent.com/u/96063367"
+imageTitle = "Hendra Manudinata"
+imageWidth = 160
+imageHeight = 160
+
+#  [[params.profileMode.buttons]]
+#  name = "Blog Posts"
+#  url = "/blog/"
+
+  [[params.profileMode.buttons]]
+  name = "Support Me!"
+  url = "https://saweria.co/hendramanudinata03"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/hendramanudinata03"
+
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/hendramanudinata03"

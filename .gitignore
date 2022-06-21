@@ -1,0 +1,8 @@
+# Generated site
+public/
+
+# Resources cache
+resources/
+
+# Hugo build lock
+.hugo_build.lock
