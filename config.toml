@@ -2,6 +2,16 @@ baseURL = "https://www.hendra-manudinata.my.id"
 languageCode = "en-us"
 title = "Hendra Manudinata"
 theme = "PaperMod"
+staticDir = ["static/"]
+
+[params]
+showToc = true
+showCodeCopyButtons = true
+
+[params.editPost]
+url = "https://github.com/hendramanudinata03/www.hendra-manudinata.my.id/content"
+text = "Suggest Changes"
+appendFilePath = true
 
 [params.profileMode]
 enabled = true
@@ -12,9 +22,9 @@ imageTitle = "Hendra Manudinata"
 imageWidth = 160
 imageHeight = 160
 
-#  [[params.profileMode.buttons]]
-#  name = "Blog Posts"
-#  url = "/blog/"
+  [[params.profileMode.buttons]]
+  name = "Blog Posts"
+  url = "/blog/"
 
   [[params.profileMode.buttons]]
   name = "Support Me!"
