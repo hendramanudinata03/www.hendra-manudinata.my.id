@@ -9,7 +9,7 @@ showToc = true
 showCodeCopyButtons = true
 
 [params.editPost]
-url = "https://github.com/hendramanudinata03/www.hendra-manudinata.my.id/content"
+url = "https://github.com/hendramanudinata03/www.hendra-manudinata.my.id/blob/master/content"
 text = "Suggest Changes"
 appendFilePath = true
 
